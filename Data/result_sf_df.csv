@@ -1,0 +1,41 @@
+name,distance,lat,lon,Type
+Starbucks,1103,37.777222,-122.41935,Starbucks
+Starbucks,1598,37.785916,-122.421011,Starbucks
+Starbucks,1476,37.761006,-122.434724,Starbucks
+Starbucks,1659,37.788569,-122.434572,Starbucks
+Starbucks,974,37.782793,-122.431506,Starbucks
+Starbucks,1816,37.790223,-122.433882,Starbucks
+Starbucks,597,37.769066,-122.427755,Starbucks
+Starbucks,1328,37.775689,-122.446208,Starbucks
+Starbucks,1530,37.786046,-122.439798,Starbucks
+Starbucks,3221,37.799284,-122.449472,Starbucks
+Shizen,1065,37.768028,-122.421674,Vegan rest
+Gracias Madre,1750,37.761556,-122.419141,Vegan rest
+Wildseed,2630,37.797611,-122.432527,Vegan rest
+Greens Restaurant,3644,37.773837,-122.426031,Vegan rest
+Chisme Cantina,2166,37.78858,-122.414788,Vegan rest
+Udupi Palace,2111,37.756655,-122.420858,Vegan rest
+Sweetgreen,3226,37.787275,-122.398509,Vegan rest
+Sweetgreen,3871,37.789748,-122.391772,Vegan rest
+Palmetto Superfoods,2844,37.783276,-122.461421,Vegan rest
+Ritual Coffee Roasters,676,37.776396,-122.424175,Vegan rest
+Preschool,2447,37.753287,-122.421734,Preschool
+Chibi Chan Preschool,1557,37.787294,-122.437149,Preschool
+Golden Gate Guppies Preschool,1707,37.788997,-122.434526,Preschool
+Petite Explorer Preschool,1855,37.761362,-122.41741,Preschool
+Tinker Preschool Mandarin Immersion,1971,37.768048,-122.452562,Preschool
+Apple Tree Preschool,2320,37.777038,-122.405075,Preschool
+True Sunshine Preschool Center,2949,37.793027,-122.407882,Preschool
+Stepping Stones Preschool,3120,37.763513,-122.464402,Preschool
+Little Tree Preschool,3222,37.746463,-122.41911,Preschool
+Seabird Preschool,3303,37.797266,-122.407988,Preschool
+Palo Alto Airport (PAO),45193,37.454906,-122.110797,Airport
+Half Moon Bay Airport (HAF),29571,37.513993,-122.494989,Airport
+San Francisco International Airport (SFO),17898,37.61649,-122.38681,Airport
+Livermore Municipal Airport (LVK),54701,37.696308,-121.819977,Airport
+Moffett Federal Airfield (NUQ),52494,37.415298,-122.047203,Airport
+Napa County Airport (APC),51124,38.217242,-122.272959,Airport
+San Carlos Airport (SQL),32867,37.515132,-122.250552,Airport
+Oakland International Airport (OAK),20349,37.712364,-122.213326,Airport
+Buchanan Field Airport (CCR),40203,37.9823,-122.056084,Airport
+Fly Bay Area,32851,37.515328,-122.250563,Airport

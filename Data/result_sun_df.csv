@@ -1,0 +1,41 @@
+name,distance,lat,lon,Type
+Starbucks,665,37.373722,-122.032292,Starbucks
+Starbucks,1085,37.364167,-122.025612,Starbucks
+Starbucks,1971,37.372769,-122.058142,Starbucks
+Starbucks,2088,37.357289,-122.017721,Starbucks
+Starbucks,2232,37.388358,-122.030378,Starbucks
+Starbucks,2226,37.352729,-122.051311,Starbucks
+Starbucks,3238,37.378806,-122.070782,Starbucks
+Starbucks,4428,37.337137,-122.06683,Starbucks
+Starbucks,3871,37.352985,-121.997307,Starbucks
+Starbucks,4594,37.372377,-122.088382,Starbucks
+Sweetgreen,95,37.368412,-122.03559,Vegan rest
+Merit Vegetarian Restaurant,4054,37.384763,-121.99518,Vegan rest
+Madras Cafe,1748,37.374331,-122.055151,Vegan rest
+Sweetgreen,4654,37.390933,-122.081257,Vegan rest
+Bhavika’s Indian Vegetarian Food,3353,37.353071,-122.004324,Vegan rest
+Abhiruchi,2530,37.353965,-122.014677,Vegan rest
+Caffe Macs,4101,37.332517,-122.029095,Vegan rest
+Oren's Hummus,4695,37.394761,-122.078679,Vegan rest
+Madurai Idli Kadai,2045,37.366031,-122.013407,Vegan rest
+Doppio Zero,4705,37.394479,-122.078949,Vegan rest
+Choo Choo Train Preschool,1449,37.356199,-122.031976,Preschool
+Bright Beginnings Preschool,1808,37.352663,-122.034997,Preschool
+Little Prodigy Preschool & Daycare Center,2477,37.376644,-122.062148,Preschool
+Amazing Creations Preschool,3146,37.345393,-122.056128,Preschool
+The Wonder Years Preschool,3722,37.382136,-122.075045,Preschool
+Bright Horizons at Sunnyvale,1131,37.35927,-122.03164,Preschool
+A+ Academy,1655,37.363389,-122.025927,Preschool
+Safari Kid,2114,37.375352,-122.058714,Preschool
+Sunnyvale Parent Preschool,3714,37.377187,-121.995624,Preschool
+Laurelwood Preschool,4158,37.343014,-122.002271,Preschool
+The Club at SJC,9547,37.36843,-121.928285,Airport
+Palo Alto Airport (PAO),11707,37.454906,-122.110797,Airport
+Moffett Federal Airfield (NUQ),4712,37.415298,-122.047203,Airport
+Livermore Municipal Airport (LVK),41213,37.696308,-121.819977,Airport
+Half Moon Bay Airport (HAF),43493,37.513993,-122.494989,Airport
+Reid-Hillview Airport (RHV),19424,37.3368,-121.819092,Airport
+San Jose Mineta International Airport (SJC),9671,37.36757,-121.927444,Airport
+San Francisco International Airport (SFO),41413,37.61649,-122.38681,Airport
+San Carlos Airport (SQL),24929,37.515132,-122.250552,Airport
+Moffett Field Control Tower,4638,37.409019,-122.05077,Airport
