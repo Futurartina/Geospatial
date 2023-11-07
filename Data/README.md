@@ -66,9 +66,9 @@ To choose the city, I weighed the different requirements:
  - Density of tech companies near the location (5%) - The closeness of tech companies (including design companies) can help create a powerful and creative environment.
    Thus,  there could probably be collaborations with other start-ups. 
 
-![SF_map]
+![SF_map] (https://github.com/Futurartina/Geospatial/blob/main/Data/SF_map.png?raw=true)
 
-![SUN_map]
+![SUN_map] (https://github.com/Futurartina/Geospatial/blob/main/Data/SUN_map.png?raw=true)
 
 The coordinates chosen for each city are the coordenates for the city centre. 
 The radius used for looking for venues in 4square has been 5 km.
