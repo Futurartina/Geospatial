@@ -55,7 +55,7 @@ The most repetead zip codes in USA are in San Francisco city and some other in S
 Based on these facts, I took the decision to compare San Francisco centre and Sunnyvale centre to check which is the most appropriate location for the company.
 Having the cities defined, I focused on finding the airports, vegan restaurants, preschools and Starbucks in the specific area. 
 
-![cities_map] (https://github.com/Futurartina/Geospatial/blob/main/Data/citiesmap.html)
+![cities_map] (https://github.com/Futurartina/Geospatial/blob/main/Data/cities_map.png?raw=true)
 
 To choose the city, I weighed the different requirements:
  - Cost of living (30%) - A lower cost of living will reduce mainly the office expenses.
