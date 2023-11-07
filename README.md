@@ -66,6 +66,12 @@ To choose the city, I weighed the different requirements:
  - Density of tech companies near the location (5%) - The closeness of tech companies (including design companies) can help create a powerful and creative environment.
    Thus,  there could probably be collaborations with other start-ups. 
 
+To check the cost of living, I have read webpages like the following:
+![cost_of_living] (https://costoflive.com/cost-of-living/comparison/sunnyvale-ca/vs/san-francisco-ca)
+To understand the density of tech companies, I have taken into account the "Top 10 Zip Code in Tech" plot. 
+
+Maps
+
 ![SF_map] (https://github.com/Futurartina/Geospatial/blob/main/Data/SF_map.png?raw=true)
 
 ![SUN_map] (https://github.com/Futurartina/Geospatial/blob/main/Data/SUN_map.png?raw=true)
